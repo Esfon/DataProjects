@@ -19,3 +19,8 @@ Data Analysis Projects:
   Project 4 - This project involves data cleaning and analysis using SQL and Visualization through PowerBI
   
   Softwares Used - SQL, PowerBI
+
+
+  Project 5 - The project involves usage of excel for data cleaning 
+  
+  Softwares Used - Excel
